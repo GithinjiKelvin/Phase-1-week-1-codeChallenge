@@ -28,7 +28,7 @@ Git
 Vs Code
 
 # Live Link
-[Git](gh-pages link)
+https://githinjikelvin.github.io/Phase-1-week-1-codeChallenge/
 
 ## Technologies used
 HTML
