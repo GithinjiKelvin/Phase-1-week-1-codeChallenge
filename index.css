@@ -1,0 +1,12 @@
+
+ul li{
+    
+    list-style: none;
+    padding: 10px;
+}
+
+ul li a{
+    text-decoration: none;
+    background-color: antiquewhite;
+    padding: 5px;
+}
