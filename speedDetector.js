@@ -1,6 +1,7 @@
 
 const speed = prompt("Enter your speed");
 
+// implementing the oints generator logic
 if (speed <=70){
     window.alert('OK')
 }else {

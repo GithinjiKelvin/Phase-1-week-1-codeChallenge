@@ -1,6 +1,7 @@
 
 const studentMarks = prompt("Kindly input your marks (0-100");
 
+// implementing the grade generator logic
 if (studentMarks>=0 && studentMarks <=100){
     if(studentMarks>79){
         window.alert(`${studentMarks} is an A`)
